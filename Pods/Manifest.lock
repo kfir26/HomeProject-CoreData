@@ -1,0 +1,28 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - lottie-ios (3.1.8)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - Kingfisher
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - Kingfisher
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+
+PODFILE CHECKSUM: 55dffbd87525e11a1b9fbb152d57d49ac154f068
+
+COCOAPODS: 1.9.1
